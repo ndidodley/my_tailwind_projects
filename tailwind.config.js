@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./saas_dashboard/**/*.{html,js}"],
+  content: ["./saas_landing/**/*.{html,js}"],
   theme: {
     extend: {
 
