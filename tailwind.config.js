@@ -1,10 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./freelancer_dashboard/**/*.{html,js}"],
+  content: ["./navigation_bars/**/*.{html,js}"],
   theme: {
-    extend: {
-
-    },
+    extend: {},
   },
   plugins: [],
-}
+};
